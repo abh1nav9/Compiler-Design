@@ -1,4 +1,5 @@
 This Repo contains LEX/FLEX code
+Read ' help.txt ' for better understanding of codes.
 
 Instructions to run these files
 
