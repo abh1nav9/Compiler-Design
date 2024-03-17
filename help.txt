@@ -13,6 +13,6 @@ Q5.	Design a LEX Code to count and print the number of total characters, words, 
 
 Q6.	Design a LEX Code to replace white spaces of ‘Input.txt’ file by a single blank character into ‘Output.txt’ file
 
-Q7.	Design a LEX Code to remove the comments from any C-Program given at run-time and store into ‘output.txt’ file.
+Q7.	Design a LEX Code to remove the comments from any C-Program given at run-time and store into ‘output.c’ file.
 
 Q8.	Design a LEX Code to extract all html tags in the given HTML file at run time and store into Text file 'output.txt' at run time.
