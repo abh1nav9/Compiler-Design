@@ -1,0 +1,18 @@
+Here are some LEX programing question and their answers ----
+
+
+Q1.	Design a LEX Code to count the number of lines, space, tab-meta character and rest of characters
+
+Q2.	Design a LEX Code to identify and print valid Identifier of C/C++
+
+Q3.	Design a LEX Code to identify and print integer and float value
+
+Q4.	Design a LEX Code for Tokenizing (Identify and print OPERATORS, SEPERATORS, KEYWORDS, IDENTIFERS, OTHER CHARACTER/SYMBOL)
+
+Q5.	Design a LEX Code to count and print the number of total characters, words, white spaces in given ‘Input.txt’ file.
+
+Q6.	Design a LEX Code to replace white spaces of ‘Input.txt’ file by a single blank character into ‘Output.txt’ file
+
+Q7.	Design a LEX Code to remove the comments from any C-Program given at run-time and store into ‘output.txt’ file.
+
+Q8.	Design a LEX Code to extract all html tags in the given HTML file at run time and store into Text file 'output.txt' at run time.
